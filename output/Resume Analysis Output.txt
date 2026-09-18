@@ -1,7 +1,7 @@
 ==============================================
            RESUME ANALYSIS REPORT
 ==============================================
-Candidate       : Akshat Bajpai 
+Candidate       : Aniket Pratap Singh
 Job Title       : Java Developer
 
 Resume Skills
