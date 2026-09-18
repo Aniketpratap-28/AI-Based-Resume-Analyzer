@@ -1,7 +1,7 @@
 ==============================================
            RESUME ANALYSIS REPORT
 ==============================================
-Candidate       : Akshat Bajpai
+Candidate       : Akshat Bajpai 
 Job Title       : Java Developer
 
 Resume Skills
