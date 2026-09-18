@@ -165,7 +165,7 @@ output/analysis-report.txt
 
 ## Author
 
-Akshat Bajpai
+Aniket Pratap Singh
 
 ## License
 
